@@ -93,6 +93,9 @@ You can check out my personnal site at https://www.thomasmosset.fr/
 <a href="https://github.com/thomas-mosset" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
+<a href="https://www.youtube.com/@Jack_Samoht_Dev" target="_blank">
+<img src=https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a>  
 <a href="https://linkedin.com/in/thomasmosset" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
