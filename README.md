@@ -71,9 +71,7 @@ Here's a snapshot of tools and technologies I've worked with :
               <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite Badge">
             </td>
             <td align="center">
-              <a href="https://shields.io/">
-                <img src="https://img.shields.io/badge/🐍%20PYGAME-ffffff?style=flat&color=c2fc20" alt="Pygame Badge">
-              </a>
+		<img src="https://img.shields.io/badge/🐍%20PYGAME-ffffff?style=for-the-badge&color=000000" alt="Pygame Badge">
             </td>
         </tr>
         <tr>	
@@ -108,6 +106,7 @@ Here's a snapshot of tools and technologies I've worked with :
             </td>
             <td align="center">
               <img src="https://img.shields.io/badge/Accessibility-%230170EA.svg?style=for-the-badge&logo=Accessibility&logoColor=white" alt="Accessibility Badge">
+	      <img src="https://img.shields.io/badge/WAVE-(a11y%20extension)-ffffff?style=for-the-badge&color=4573b0" alt="WAVE a11y extension Badge">
               <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT Badge">
             </td>
             <td align="center">
