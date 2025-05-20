@@ -10,6 +10,7 @@ These experiences have allowed me to deepen, broaden, and apply my skills in bot
  - ♿ **Contentsquare Foundation** (digital accessibility) ;
  - 🔐 **ANSSI / SecNum Academy** (cybersecurity fundamentals) ;
  - 🌍 **CertiProf** (remote work best practices) ;
+ - 🗣️ **EF SET** (English proficiency assessment – CEFR level aligned) ;
 
 ## Featured Projects
 
